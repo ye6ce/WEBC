@@ -1,0 +1,7 @@
+{
+  "name": "Lumina Commerce Pro",
+  "description": "A high-end, AI-powered e-commerce platform with a powerful merchant dashboard for managing products, variants, and store aesthetics.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
