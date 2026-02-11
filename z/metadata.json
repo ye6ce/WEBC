@@ -1,0 +1,7 @@
+{
+  "name": "K-SHOP - Algerian Luxury E-Commerce",
+  "description": "A high-end Algerian e-commerce platform featuring a modern luxury aesthetic, real-time Neon PostgreSQL synchronization, and Gemini AI-powered product generation and customer support.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
