@@ -1,7 +1,0 @@
-{
-  "name": "K-Shop | Elégance & Tradition",
-  "description": "👗 Des modèles sur mesure et prêts-à-porter pour vos plus beaux événements.",
-  "requestFramePermissions": [
-    "camera"
-  ]
-}
